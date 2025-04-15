@@ -1,1 +1,1 @@
-# Periodic-structure-for-high-frequency-shielding-applications
+# Customer Churn Prediction for Telecom Company
